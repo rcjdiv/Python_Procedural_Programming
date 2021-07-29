@@ -34,6 +34,6 @@ if first_final == "rocket":
     elif third_final == "blue":
       print("Go away dud")
   else:
-    print("Fuck u Myth")  
+    print("Sup Myth")  
 else:
-  print("Fuck u Ash")
+  print("Sup Ash")
